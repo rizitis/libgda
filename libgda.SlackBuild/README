@@ -1,0 +1,10 @@
+libgda was part of the GNOME-DB project (http://www.gnome.org/projects/gnome-db),
+but has been separated from it to allow non-GNOME applications to be
+developed based on it.
+
+The libgda library is released under the terms of the LGPL license,  which
+allows for commercial applications to be developed based on libgda. Its 
+command-line and UI tools are under the GPL.
+
+See COPYING for the GPL license.
+See COPYING.LIB for the LGPL license.
